@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\rymda\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\rymda\\.nuget\\packages"
-    ]
-  }
-}
